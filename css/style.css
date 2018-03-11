@@ -1,0 +1,64 @@
+.container {
+  border: 2px solid;
+  border-radius: 5px;
+  background-color: black;
+}
+  .nelson {
+  text-align: center;
+    color: white;
+   }
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+  color: #FFF;
+  margin-bottom: 5px
+}
+  .img {
+    margin-left: 150px;
+ height: 290px;
+ align: center;
+    
+ }
+
+.fighter {
+  border: 2px blue solid;
+  margin: 0px;
+  padding: 2px;
+  text-align: center;
+  background-color:#DBE9EE;
+  height: 200px;
+  border-radius: 10px;
+  }
+
+.character {
+  text-align: center;
+  background-color: aqua;
+  height: 180px;
+  border: 2px solid black;
+  
+}
+
+.Quotes {
+  text-align: center;
+  background-color: grey;
+  height: 240px;
+  border: 5px solid;
+  margin: 0.35px;
+  border-radius: 10px;
+}
+
+.read {
+  font-family: arial;
+  text-align: center;
+  color: grey;
+  margin-top: 38px;
+  font-size: 12px
+}
+.footer {
+  text-align: center;
+  font-family: helvectica;
+  font-weight: normal;
+  color: white;
+  
+}
